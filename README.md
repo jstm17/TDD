@@ -7,3 +7,5 @@ Ce qu'on a fait :
 - Gérer les devises
 - Ouvrir un compte
 - Clôturer un compte
+
+Par Julie, Alexis et Edson
